@@ -1,0 +1,2 @@
+# regesta_OCR
+ 
